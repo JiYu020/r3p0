@@ -1,0 +1,8 @@
+Origin: JiYu020
+Label:
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphone-arm
+Components: main
+Description: JiYu020's Official Repo
